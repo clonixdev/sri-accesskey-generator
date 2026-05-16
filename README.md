@@ -5,7 +5,7 @@ Librería PHP para generar claves de acceso del SRI (Servicio de Rentas Internas
 ## Instalación
 
 ```bash
-composer require dazza-dev/sri-accesskey-generator
+composer require clonixdev/sri-accesskey-generator
 ```
 
 ## Ejemplo de uso

@@ -1,5 +1,6 @@
 {
-  "name": "dazza-dev/sri-accesskey-generator",
+  "name": "clonixdev/sri-accesskey-generator",
+  "version": "1.0.1",
   "description": "Librería PHP para generar claves de acceso del SRI (Servicio de Rentas Internas) para documentos electrónicos en Ecuador. Implementa el algoritmo oficial con cálculo de dígito verificador módulo 11.",
   "keywords": [
     "sri",
